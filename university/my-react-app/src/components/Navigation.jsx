@@ -47,7 +47,7 @@ export default function Navigation() {
             </div>
             <div className="flex-shrink-0">
               <h1 className="text-2xl font-bold text-indigo-600">
-                مشروع دكتور حاتيم
+                مشروع دكتور حاتم
               </h1>
             </div>
           </div>
